@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ili9341_display)(type Legacy)(uri /home/gerbil/ili9341_display.lib)(options "")(descr ""))
+  (lib (name ILI_Clock-rescue)(type Legacy)(uri ${KIPRJMOD}/ILI_Clock-rescue.lib)(options "")(descr ""))
+)
