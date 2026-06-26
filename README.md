@@ -15,3 +15,4 @@ TODO:
 - Integration LDR im Code => Steuern LED Hintergrundbeleuchtung
 - Alarmfunktion
 - Chime-Funktion
+- präziseres RTC-Modul finden
