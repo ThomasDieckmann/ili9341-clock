@@ -1,4 +1,4 @@
-#Uhr mit ILI9341 display
+# Uhr mit ILI9341 display
 
 Das war eigentlich eine schnelle Bastelei, die auch zugegebenermaßen noch nicht ganz fertig ist.
 So sieht der Code allerdings auch aus. Da könnten irgendwann noch einmal ein paar Kommentare hinein.
